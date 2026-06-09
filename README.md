@@ -39,6 +39,5 @@ Analisar os registros de ocorrências criminais da cidade de São Paulo, identif
 
 ## Dashboard
 
-## Dashboard
 
 ![Dashboard Criminalidade](Screenshot_2.png)
